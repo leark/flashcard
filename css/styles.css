@@ -1,0 +1,12 @@
+.card-text {
+  display: none;
+  cursor: pointer;
+}
+
+.card-title {
+  cursor: pointer;
+}
+
+.card-title-hidden {
+  display: none;
+}
